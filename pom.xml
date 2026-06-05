@@ -81,13 +81,6 @@
 			<version>0.12.6</version>
 		</dependency>
 
-		<!-- MySQL -->
-		<dependency>
-			<groupId>com.mysql</groupId>
-			<artifactId>mysql-connector-j</artifactId>
-			<scope>runtime</scope>
-		</dependency>
-
 		<!-- DevTools -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
